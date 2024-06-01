@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D37CD8-85C3-42D1-ACD6-9D413E43418C}|StoresServiceApi\\StoresServiceApi.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesserviceapi\\controllers\\storeservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D37CD8-85C3-42D1-ACD6-9D413E43418C}|StoresServiceApi\\StoresServiceApi.csproj|solutionrelative:storesserviceapi\\controllers\\storeservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesservice.entityframework\\context\\storesservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|solutionrelative:storesservice.entityframework\\context\\storesservicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesservice.entityframework\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|solutionrelative:storesservice.entityframework\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesservice.entityframework\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|solutionrelative:storesservice.entityframework\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesservice.entityframework\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|solutionrelative:storesservice.entityframework\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesservice.entityframework\\entities\\storeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|solutionrelative:storesservice.entityframework\\entities\\storeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesservice.entityframework\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095E5627-8B45-4590-8717-7271BA6F7BD4}|StoresService.EntityFramework\\StoresService.EntityFramework.csproj|solutionrelative:storesservice.entityframework\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D37CD8-85C3-42D1-ACD6-9D413E43418C}|StoresServiceApi\\StoresServiceApi.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16D37CD8-85C3-42D1-ACD6-9D413E43418C}|StoresServiceApi\\StoresServiceApi.csproj|solutionrelative:storesserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D37CD8-85C3-42D1-ACD6-9D413E43418C}|StoresServiceApi\\StoresServiceApi.csproj|c:\\users\\vovak\\source\\repos\\storesserviceapi\\storesserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D37CD8-85C3-42D1-ACD6-9D413E43418C}|StoresServiceApi\\StoresServiceApi.csproj|solutionrelative:storesserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\Controllers\\StoreServiceController.cs",
+              "RelativeDocumentMoniker": "StoresServiceApi\\Controllers\\StoreServiceController.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\Controllers\\StoreServiceController.cs",
+              "RelativeToolTip": "StoresServiceApi\\Controllers\\StoreServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:41:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "StoresServiceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\Program.cs",
+              "RelativeToolTip": "StoresServiceApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:57:00.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "StoresService.EntityFramework\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Supplier.cs",
+              "RelativeToolTip": "StoresService.EntityFramework\\Entities\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:54:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "StoresService.EntityFramework\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Company.cs",
+              "RelativeToolTip": "StoresService.EntityFramework\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:54:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreProduct.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\StoreProduct.cs",
+              "RelativeDocumentMoniker": "StoresService.EntityFramework\\Entities\\StoreProduct.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\StoreProduct.cs",
+              "RelativeToolTip": "StoresService.EntityFramework\\Entities\\StoreProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:54:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StoresServiceApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\appsettings.json",
+              "RelativeToolTip": "StoresServiceApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T11:59:32.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "StoresService.EntityFramework\\Entities\\Store.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Store.cs",
+              "RelativeToolTip": "StoresService.EntityFramework\\Entities\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:52:48.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "StoresService.EntityFramework\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Entities\\Product.cs",
+              "RelativeToolTip": "StoresService.EntityFramework\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:54:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoresServiceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Context\\StoresServiceDbContext.cs",
+              "RelativeDocumentMoniker": "StoresService.EntityFramework\\Context\\StoresServiceDbContext.cs",
+              "ToolTip": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\Context\\StoresServiceDbContext.cs",
+              "RelativeToolTip": "StoresService.EntityFramework\\Context\\StoresServiceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:56:19.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
