@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Th0XKrl/FLkYBhTueon89dpU2EUVMR1yb0cczaDB2ebMxTf/5Mj9qf7fkLGPmUUvarMpmATGHEZezULqi3135A==",
+  "dgSpecHash": "a118/Kdx7SbdJChlB6H3diENsy3oM2ksPEXeUX93Knhg/tt9XdzU6zAAvk9SNnxBNdtw6vxe+6SMnITqlm/YDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vovak\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vovak\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

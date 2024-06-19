@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj": {}
+    "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {
+    "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
         "projectName": "StoresService.EntityFramework",
-        "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
+        "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\vovak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj": {
+    "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj",
+        "projectUniqueName": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj",
         "projectName": "StoresServiceApi",
-        "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj",
+        "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresServiceApi\\StoresServiceApi.csproj",
         "packagesPath": "C:\\Users\\vovak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresServiceApi\\obj\\",
+        "outputPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresServiceApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {
-                "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj"
+              "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {
+                "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj"
               }
             }
           }
@@ -141,6 +141,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -151,9 +155,17 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
             }
           },
           "imports": [

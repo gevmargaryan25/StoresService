@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {}
+    "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {
+    "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
         "projectName": "StoresService.EntityFramework",
-        "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
+        "projectPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\StoresService.EntityFramework.csproj",
         "packagesPath": "C:\\Users\\vovak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vovak\\source\\repos\\StoresServiceApi\\StoresService.EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\vovak\\source\\repos\\StoresService\\StoresServiceApi\\StoresService.EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using StoresService.EntityFramework.Context;
-using StoresService.EntityFramework.Repositories;
-using StoresService.EntityFramework.Repositories.Interfaces;
+using StoresServiceApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,10 +14,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IStoreRepository, StoreRepository>();
-builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
-builder.Services.AddScoped<ISupplierRepository, SupplierRepository>();
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IPdfCreator, PdfCreator>();
 
 var app = builder.Build();
 
